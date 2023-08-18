@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:1px solid black;
+	border-collapsed:collapse;
+}
+th,td{
+	padding:9px;
+	text-align:left;
+}
+table{
+	border:double
+}
+.test{color:white;
+	
+}
